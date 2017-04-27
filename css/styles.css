@@ -1,0 +1,34 @@
+/* Web of people 
+Rust Activate Mexico City 2017
+organized by Rust MX
+@QuarryCero
+*/
+
+body{
+	color: #333;
+    text-align: center;
+	background: #FFF;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+#clockdiv{
+	display: inline-block;
+	font-size: 100px;
+	color: #aaa;
+}
+
+#clockdiv > div{
+    display: inline-block;
+    padding: 10px;
+}
+
+#clockdiv div > span{
+    display: inline-block;
+    padding: 15px;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 28px;
+}
